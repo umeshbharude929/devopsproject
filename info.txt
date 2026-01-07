@@ -1,0 +1,21 @@
+types of ec2 instances :
+
+general purpose 
+    balanced cup storage network 
+    use cases : web server application server small databases 
+    ex : t2 , t3 , t4g , m5 , m6
+compute optimised
+    high cpu performance 
+    use cases: gaming server , 
+    ex : c5 , c6 
+memory optimised 
+    high ram 
+    use cases : real time analytics , in memory databases
+    ex : r5 , r6
+storage optimised
+    high disk performance
+    use : big data 
+    i3 , d2 
+accelerated computing 
+    ai , machine leraning 
+    p3 , g4
